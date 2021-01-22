@@ -1,0 +1,26 @@
+[
+    {
+      "image":"https://png.pngtree.com/element_our/20190601/ourmid/pngtree-physical-orange-slices-image_1364049.jpg",
+      "productName":"orange",
+      "productCode":1,
+      "branchName":"ABC",
+      "branchCode":55,
+      "shippingAddress":"Near PQR"
+    },
+    {
+      "image":"https://cdn.imgbin.com/1/10/20/imgbin-mango-mango-vQn4r28Mx7t27K1682iKEvAWE.jpg",
+      "productName":"mango",
+      "productCode":2,
+      "branchName":"MNG",
+      "branchCode":40,
+      "shippingAddress":"Near Gandhinagar"
+    },
+    {
+      "image":"https://thumbnail.imgbin.com/9/16/23/imgbin-apple-95uuwvkHXKhGXbtNXPBEAT5bs_t.jpg",
+      "productName":"apple",
+      "productCode":3,
+      "branchName":"KML",
+      "branchCode":90,
+      "shippingAddress":"Near XYZ"
+    }
+  ]
